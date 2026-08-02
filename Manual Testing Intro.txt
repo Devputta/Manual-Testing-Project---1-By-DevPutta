@@ -1,0 +1,106 @@
+Manual Testing Intro
+
+
+chrome extinction -- jobalytics = fpr key words
+
+
+Kickresume
+
+
+
+software --- >   its a collection of program its helps us to perform a task 
+
+
+types of software 
+
+1. system software 
+---- Device Drivers, Operating systems, Services, Utilities, ETC
+2. programming software ---- internal software 
+---- Compiler, debugging, Interpreter, etc
+
+*****these to are used to run the device or software 
+
+
+3. Application software --------  users software 
+---- Web application, Mobiles apps, desktops application, etc
+
+
+what is software testing?
+-----
+software testing is a part of a software development process 
+software testing is an activity to detect and identify the defect in the software  
+the object of testing is to release quality product to the customer or client
+
+
+what is software quality??
+-----
+1. bug-free
+2. delivered on time 
+3. within budget
+4. meets requirement or expectation 
+5. maintainable 
+
+
+
+project and product 
+******
+--- if software application is developed for specific customer based on the requirement then it is called project (no others)
+
+
+--- if software application is developed for multiple customer based on market requirements then its called product 
+
+
+Error Bug & Failure 
+------
+* Error - Human Mistake (developer)
+* bug - mismatch or (tester) 
+* Failure - Deviation of not working (production customer)
+
+
+
+why software has Bugs?
+------
+miscommunication or no communication 
+software complexity 
+programming error
+changing requirements 
+lack of skilled testers
+
+********************************************************************************************************************************************************************
+
+PART --- 2
+
+SDLC (SOFTWARE DEVELOPMENT LIFE CYCLE)
+-------------------------------------
+
+is a process which is used by Development industry to design develop test the software 
+
+
+its a basic definition 
+
+
+3 P Pillars of any company
+
+p-people
+p-process
+p-product
+
+***********
+
+                 requirements analysis -----
+					    |
+					  Design -----
+						      |
+						  Development -----
+								   |
+							        Testing -----
+									     |
+									  Maintain  		
+					
+
+
+_____________________________________________________________________________________________________________________________________________________________________
+
+Old and traditional Model is waterfall Model
+
+

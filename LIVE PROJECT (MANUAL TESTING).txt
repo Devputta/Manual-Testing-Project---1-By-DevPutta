@@ -1,0 +1,91 @@
+LIVE PROJECT (MANUAL TESTING)
+
+Project Introduction 
+Understanding & Explore the Functionality (FSR)
+Estimation 
+Test plan
+Writing Test Scenarios
+Writing Test cases & reviews 
+Environment Setup & Build deployment
+Test Execution 
+Bug Reporting & Tracking 
+Sanity Testing, Re-Testing & Regression Testing 
+Test Sign Off
+
+
+
+Project Introduction 
+--------------------
+
+Product ---- Multi customer --- Market Requirements 
+
+E-Commerce Product/Application
+------------------------------
+
+E-commerce -- 
+	Login
+	Search for Product/Item
+	Add to Cart
+	Do payment
+	Product will Delivered.
+	Return The Product
+	ETC....
+eCommers - 2 -- parts 
+Frontend----------Public through Internet
+Backend--------Admin 
+
+
+Internet --- People who can access the application Throughout the internet (frontend)
+
+Intranet --- The application can be accessed by only with in the organization by the admins and cant't access Throughout the internet in public 
+
+
+---------------------------------------------------------------
+
+ 
+Opendemo ---- product Application for testing 
+
+---------------------------------------------------------------
+
+Understanding & Explore the Functionality 
+
+FRS functional Requirement Specification -----
+
+Mockup screen --->  dummy screen which will design before actual software or actual design designed 
+
+---------------------------------------------------------------
+
+Documents
+
+-FRS
+-Project Plan
+
+---------------------------------------------------------------
+
+TEST PLAN ------- Test leads and Test Engineers 
+
+---- Test plan is a document which says or describes scope of the test   
+
+- scope of testing 
+- test schedules
+- what we are going to test or not to test
+- what are feature are going to test
+- Time line
+- Team member and tools 
+
+ 
+---------------------------------------------------------------
+
+Writing Test Scenarios
+ ----
+
+what to test --- what area to be test
+
+More number of test cases can created based on the scenarios 
+
+
+
+
+
+
+
