@@ -104,3 +104,179 @@ ________________________________________________________________________________
 Old and traditional Model is waterfall Model
 
 
+*********************************************
+
+requirement Analysis ---------
+	|		      |
+	|		System Design -------
+	|		      |		     |
+	|		      |		Implementation --------
+	|		      |		      |		       |
+	|		      |		      |		    Testing ---------
+	|		      |		      |			|	     |
+	|		      |		      |			|	 Deployment ----------
+	|		      |		      |			|	      |		      |
+        --------------------------------------------------------------------------------- Maintenance  
+
+
+-------------------------------------------------------------------------------------------------------
+
+* each and every step documented 
+* SRS Document 
+* in Design High and Low
+* each and every step will have input and will give certain output
+*  SRS ---> Design Document -----> Code --------> Tested Software with Report ------> Maintenance
+* every phase dependent on previse Phase (long term project)
+
+ADV VS DIS
+
+1. Quality of the product will be good (detailed document)
+2. science Requirements change not allowed, the finding bugs will be less 
+3. investments very less at initial 
+4. preferred for small project where requirements feezed 
+
+
+DIS
+
+1. requirements changes are not allowed in the middle  (fixed stages)
+2. if there is defect in requirements that will be continued in later stage 
+3. total investment is more, because time taking for rework on defect 
+4. Testing will start only after coding 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SPIRAL MODEL ---------- to over come the drawback of waterfall model 
+
+******************
+
+
+  
+
+
+									|
+									|					
+				Planning				|                     Risk Analysis
+									|
+									|
+									|
+									|
+									|
+									|
+									|
+									|
+						Requirement 		|	Prototype
+						Analysis		|
+									|
+								1	|	2
+									|
+                             ----------------------------------------------------------------------------------------
+								  Cost/	|
+								4	|	3
+									|
+						Customer 		|
+						Evaluation 		|	Development &
+									|		Testing 
+									|
+									|
+									|
+									|
+									|
+									|
+									|
+				Evaluation 				|			Engineering & Execution 
+									|
+									|
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+* version vise software will be released 1,2,3,4, etc as cycle 
+* its suitable for product based company (market based Requirements) iterate model 
+* new model will be released for every cycle
+
+1. spiral model is Iterative mode Version control model
+2. SM overcome drawbacks of waterfall model 
+3. we follow SM when ever there is a dependency on the previse model or software 
+4. for every cycle new software will be released to customer  
+5. so software released multiple version, so its called version control 
+
+
+
+ADV VS DIS
+
+ADV
+
+1. Testing is done in every cycle, before its go to the next cycle
+2. customer will get use the software for every model 
+3. Requirements changes are allowed for every cycle, before going to the next cycle 
+
+DIS 
+
+1. Requirement changes are not allowed in b/w cycle 
+2. every cycle of SM looks like Waterfall model 
+3. There is no testing in requirements and design Phase 
+
+
+
+*****************************************************************************************************************************************************************
+
+PROTOTYPE MODEL (sample/Blue Print)
+
+******************************
+
+its comes b/w Waterfall model and Spiral  Model 
+
+
+
+Initial Requirements -----> Prototype ------> customer ------> Design -----> coding ------> Testing 
+
+
+*********************************************************************************************************************************************************************
+
+
+V MODEL / VV MODEL (Verification and Validation Model)
+
+------------------------------------------------------
+
+
+                       VERIFICATION                                                                                  VALIDATION 
+                    ---------------------                                                                         ----------------
+
+                              ----
+			      |	BRS/CRS/URS  -------------------------------------------------------  User acceptance Testing       {Black Box Testing
+			      |                                                                                                           Technic}
+			      |	SRS  -------------------------------------------------------------  System Testing
+                              -----
+				
+** REVIEWS **
+                                 -----
+                                | HLD  ---------------------
+				|                           |-----------------------------  Integration Testing 
+				| LLD  ---------------------
+				-----
+
+											{white Box Testing 
+											    Technic }
+				
+					Coding	 ----------------------------------   Unit Treating
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Business, Customer, User (BRS/CRS/URS) specific Requirements Document -- Business unit  ---------------> conduct -----> user acceptance testing
+* SRS Software Requirements Specification (Technical) ----- (Product manage)
+* High Level Design Document ---> main and Low Level Design Document ----> low------ (Design Engineer)
+* coding  
+
+
+
+{Review, Walkthrough, Inspection}
+
+
+
+
+
+
