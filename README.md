@@ -1,6 +1,6 @@
-# Manual-Project---1-By-DevPutta
-DAY - 1 
+DAY - 1
 Topics Covered:
+------------------------
 1. What is Software? Types of Software’s?
 2. What is Software Testing?
 3. What is Software Quality?
