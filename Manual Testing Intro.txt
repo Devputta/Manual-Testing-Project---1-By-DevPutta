@@ -1,3 +1,5 @@
+
+
 Manual Testing Intro
 
 
@@ -68,7 +70,7 @@ lack of skilled testers
 
 ********************************************************************************************************************************************************************
 
-PART --- 2
+DAY 2 (https://youtu.be/5_gi2-SZZWM?si=ONveKY8bI9iRIZRC)   PART --- 2
 
 SDLC (SOFTWARE DEVELOPMENT LIFE CYCLE)
 -------------------------------------
@@ -251,32 +253,112 @@ V MODEL / VV MODEL (Verification and Validation Model)
                               -----
 				
 ** REVIEWS **
-                                 -----
-                                | HLD  ---------------------
-				|                           |-----------------------------  Integration Testing 
-				| LLD  ---------------------
-				-----
-
-											{white Box Testing 
-											    Technic }
-				
-					Coding	 ----------------------------------   Unit Treating
-
-
-
+                                 -----                                                                    -------
+                                | HLD  ---------------------                                                     |
+				|                           |-----------------------------  Integration Testing  |
+				| LLD  ---------------------                                                     |
+				-----                                                                            |
+                                                                                                                 | 
+											{white Box Testing       |
+											    Technic }            |
+				                                                                                 |
+					Coding	 ----------------------------------   Unit Treating              | 
+                                                                                                                 |
+                                                                                                         ---------   
+                                                                                                             
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Business, Customer, User (BRS/CRS/URS) specific Requirements Document -- Business unit  ---------------> conduct -----> user acceptance testing
 * SRS Software Requirements Specification (Technical) ----- (Product manage)
-* High Level Design Document ---> main and Low Level Design Document ----> low------ (Design Engineer)
+* High Level Design Document ---> main and Low Level Design Document ----> sub / low------ (Design Engineer)
 * coding  
 
 
 
-{Review, Walkthrough, Inspection}
+{Review, Walkthrough, Inspection} ---------------->  verify the Document
+
+
+till coding its Static Testing technic (Review of the document(BRS/CRS/URS----HLD---LLD) testing the project related document its called static testing
+
+Unit(sing developed code/ single module) and integration testing(integrating multiple units) conducted by the **developer** its self (coding Knowledge)
+
+after the code what ever test conducted by the developer its also called White box Testing 
+
+actual test team will involve in system testing (no-need to have knowledge of coding)  {Black box Testing Technique}  --- include user acceptance testing 
 
 
 
 
 
+static test 
 
+1. reviews Document
+2. walkthrough
+3. Inspection 
+
+Dynamic Testing
+
+1. Unit testing ------------------- white box
+2. integration Testing
+3. system Testing ----------------- Black box
+4. User Acceptance Testing
+
+
+
+Verification and Validation 
+--------------------------
+
+Verification:- done or conduct before Software 
+
+* Verification check whether we are building right product
+* Focus on Documents  
+
+static test 
+
+1. reviews Document
+2. walkthrough
+3. Inspection 
+* Verification typically involved 
+
+
+Validation:- done or conduct After Software 
+
+* Validation check whether we are building product right
+* Validation takes place after verification are completed 
+* Focus on Software 
+
+Dynamic Testing
+
+1. Unit testing ------------------- white box
+2. integration Testing
+3. system Testing ----------------- Black box
+4. User Acceptance Testing
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ADV VS DIS
+
+ADV
+
+1. Testing involves Each and every Phase
+
+DIS
+
+1. Documentation is more
+2. initial investment is more
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Topics Covered:
+-----------------------
+1. SDLC 
+2. Waterfall Model
+3. Spiral Model
+4. V-Model
+5. Static Testing & Dynamic Testing
+6. Verification & Validation
+7. White Box & Black Box Testing Methods
+
+
+
+                      *********************** Done Part 2  ****************************
