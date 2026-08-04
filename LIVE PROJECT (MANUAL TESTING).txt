@@ -69,7 +69,7 @@ TEST PLAN ------- Test leads and Test Engineers
 - scope of testing 
 - test schedules
 - what we are going to test or not to test
-- what are feature are going to test
+- what are feature are going to test 
 - Time line
 - Team member and tools 
 
@@ -83,9 +83,22 @@ what to test --- what area to be test
 
 More number of test cases can created based on the scenarios 
 
+---------------------------------------------------------------
 
 
+PART 2 - DAY - 2
 
 
+---------------------------------------------------------------
+
+Requirement Traceability Matrix  --- (RTM)
+
+how to write the test cases 
+
+Topics :
+------------
+1. RTM (Requirement Traceability Matrix)
+2. Test Cases
 
 
+ 
