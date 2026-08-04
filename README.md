@@ -1,5 +1,7 @@
-DAY - 1
-Topics Covered:
+MANUAL TESTING :
+-----------------------------------------------------------------
+
+Topics Covered :
 ------------------------
 1. What is Software? Types of Software’s?
 2. What is Software Testing?
@@ -10,19 +12,17 @@ Topics Covered:
 7. Why the software has bugs?
 
 DAY - 2
-Topics Covered:
------------------------
-1. SDLC 
-2. Waterfall Model
-3. Spiral Model
-4. V-Model
-5. Static Testing & Dynamic Testing
-6. Verification & Validation
-7. White Box & Black Box Testing Methods
+8. SDLC 
+9. Waterfall Model
+10. Spiral Model
+11. V-Model
+12. Static Testing & Dynamic Testing
+13. Verification & Validation
+14. White Box & Black Box Testing Methods
 
 
 Project -- > 
-part -1 
+-------------------------------------------------------------
 
 Topics :
 ------------
@@ -30,4 +30,8 @@ Topics :
 2. Explore AUT
 3. FRS Document 
 4. Test Scenarios 
-5. Test Plan 
+5. Test Plan
+   
+Day - 2
+7. RTM (Requirement Traceability Matrix)
+8. Test Cases
