@@ -12,13 +12,23 @@ Topics Covered :
 7. Why the software has bugs?
 
 DAY - 2
-8. SDLC 
-9. Waterfall Model
-10. Spiral Model
-11. V-Model
-12. Static Testing & Dynamic Testing
-13. Verification & Validation
-14. White Box & Black Box Testing Methods
+1. SDLC 
+2. Waterfall Model
+3. Spiral Model
+4. V-Model
+5. Static Testing & Dynamic Testing
+6. Verification & Validation
+7. White Box & Black Box Testing Methods
+
+DAY - 3
+1. Static Testing & Dynamic Testing
+2. Review, Walkthrough & Inspection
+3. QA & QC & QE
+4. Levels of Software Testing
+5. Unit Testing
+6. Integration Testing
+7. System Testing
+8. UAT Testing
 
 
 Project -- > 
