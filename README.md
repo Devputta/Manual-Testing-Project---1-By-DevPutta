@@ -43,5 +43,5 @@ Topics :
 5. Test Plan
    
 Day - 2
-7. RTM (Requirement Traceability Matrix)
-8. Test Cases
+1. RTM (Requirement Traceability Matrix)
+2. Test Cases
