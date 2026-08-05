@@ -362,3 +362,181 @@ Topics Covered:
 
 
                       *********************** Done Part 2  ****************************
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DAY 2 Part 3
+
+=========================================================================================================================================================
+
+Static testing technic 
+
+1. review
+2. walkthrough
+3. inspection 
+
+Dynamic Testing Technic
+
+1. Unit
+2. Integration 
+3. System
+4. User acceptance 
+
+
+STATIC ---> REVIEWS  --> any time --> by anyone
+
+> reviews -> conducts on documents to ensure correctness and completeness 
+
+1. requirement review
+2. design Review
+3. code review --> by developer 
+4. test plan
+4. test cases
+
+
+walkthrough
+
+1. its informal 
+2. author read the document or code and discuss with peer 
+3. its not planed and can be done whenever require 
+4. its dose not have minutes of meet 
+
+inspection 
+
+1. more formal 
+2. 3,8 member sit in meeting 3 types of people 1. reader, 2. writer, 3. moderator + concern
+
+
+
+
+QA VS QC
+
+1
+QA-> Quality Assurance  
+- its process related
+- QC is actual testing of the software 
+2
+- QA is Preventing defects
+- QC is detecting defects
+3
+- QA is process oriented 
+- QC is product oriented 
+4
+- QA is for entire life cycle of SDLC
+- QC is for testing part in SDCL
+ 
+
+
+QE---- Quality Engineer
+
+- 
+
+3Ps -> 1. people -- should be there at company
+       2. process -- need to follow  -- QA is process related - define the product - this involve through out development process
+       3. product -- at final will get product 
+
+SDLC 
+-----
+requirements
+design
+development
+test
+deployed
+maintenance 
+
+Levels of testing --
+
+1. unit testing -- small component 
+2. integration testing -- connecting modules or components and check the data flow or communication  
+3. system testing
+4. user acceptance testing
+
+
+(WHITE BOX --- Developer Jobs)
+First Level of Software Testing is **UNIT TESTING**
+
+-- comes under white box testing
+-- what is unit -- its a single component or module of a software 
+-- for  I.E --> Email --> indox and compose is a single module or component and like wise --> spam, sent, deleted, etc
+-- conduct on single program or single module by Developer 
+-- types
+1. basic path testing
+2. control structure testing 
+3. conditional coverage
+4. loop coverage
+5. mutation testing
+
+
+Integration Testing (white box testing by developer)
+
+-- IT is performed b/w 2 or more modules
+-- focused on data communication b/w multiple modules 
+-- types of integration testing 
+1. incremental IT
+2. Non-Incremental IT
+
+1--> inclemently adding modules and checking the data flow b/w modules 
+
+1--  types  or approach
+1.1 top down
+1.2 bottom up
+
+top down -> incremental integration testing -> inclemently adding modules and checking the data flow b/w modules and ensure the module added is the child of previse model 
+
+bottom up ->   incremental integration testing -> inclemently adding modules and checking the data flow b/w modules and ensure the module added is Parent of previse model 
+
+IMP
+
+SANDWICH/ HYBRID Approach 
+-- its a combination of top down and bottom up 
+
+NON INCREMENTAL INTEGRATION TESTING 
+-----------------------------------
+we integrate all module at one single shot and check the data flow b/w the modules
+
+drawbacks ----
+
+1. we might miss data flow b/w some modules 
+2. if u find defect u can't understand what is the root Cause of defect 
+
+SYSTEM TESTING
+----------------
+
+* testing over all functionality of the application with respect to client requirements  (not touching code) 
+* ITS BLACK BOX TESTING TECHNIQUE
+* this test is conducted by Testing team 
+* After completion of unit and integration then start system testing 3rd testing technique 
+* we should know the customer requirement before start system testing 
+* system testing focus on 
+	1. User inter face testing (GUI)
+	2. Functional testing
+	3. non functional Testing
+	4. usability testing
+
+Usability testing -- > how friendly is your application 
+
+USER ACCEPTANCE Testing --> (UTA)
+
+AFTER UTA, UTA team will conduct testing in 2 level 
+1. alpha testing -- user/customer will do the testing in development environment 
+2. beta Testing -- VS
+
+
+Topics Covered:
+------------------------
+1. Static Testing & Dynamic Testing
+2. Review, Walkthrough & Inspection
+3. QA & QC & QE
+4. Levels of Software Testing
+5. Unit Testing
+6. Integration Testing
+7. System Testing
+8. UAT Testing
+
+
+************************************************************ END of Part - 3 ********************************
+
+
