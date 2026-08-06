@@ -30,6 +30,13 @@ DAY - 3
 7. System Testing
 8. UAT Testing
 
+Day - 4
+1. System Testing
+2. GUI Testing
+3. GUI Checklist
+4. Usability testing
+5. Functional testing
+
 
 Project -- > 
 -------------------------------------------------------------
