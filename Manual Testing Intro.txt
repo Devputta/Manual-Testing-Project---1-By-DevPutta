@@ -539,4 +539,63 @@ Topics Covered:
 
 ************************************************************ END of Part - 3 ********************************
 
+DAY - 4 and part - 4 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+System Testing -- (testing the product or software) 
+|
+|----------GUI Testing (User interface)
+|
+|----------Usability Testing
+|
+|----------Functional Testing
+|
+|----------Non-Functional Testing
+
+
+1. GUI (Graphical User Interface)
+
+- its a process of testing the user interface of the application or software (frontend part) 
+
+GUI Testing check list
+
+1. testing size, position, width, Hight of the elements
+2. testing of the error message that are getting displayed. (exceeding limit in text box)
+3. testing the different sections of the screen. 
+4. testing of the font whether its readable or not. (check the type and size and diff color)
+5. testing of the screen in different resolutions with the help of zooming in and zooming out.
+6. testing the color of the fonts. 
+7. testing whether the image has good clarity or not. 
+8. testing the alignment of the image.
+9. testing of the spelling.
+10. the user must not get frustrated while using the system interface.
+11. testing whether the interface is attractive or not
+12. testing of the scrollbars according to the size of the page if any.
+13. testing of the disabled fields if any.
+14. testing of the size of the image. (should not be big size)
+15. testing of the headings whether it is properly aligned or not.
+ 
+2. Usability Testing
+
+- During this testing validates application provided context sensitive *help* or not to the user (feel the easy ness)
+-  check how easily the end users are to understand and operate the application is called usability testing 
+
+3. Functional Testing 
+
+-  Functionality is nothing but behavior of the application 
+-  functional  
+
+
+
+********************************************************* END **********************************************************
+
+Topics Covered
+-------------------------
+1. System Testing
+2. GUI Testing
+3. GUI Checklist
+4. Usability testing
+5. Functional testing
+ 
