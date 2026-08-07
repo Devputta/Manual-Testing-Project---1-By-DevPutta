@@ -584,8 +584,81 @@ GUI Testing check list
 
 3. Functional Testing 
 
--  Functionality is nothing but behavior of the application 
--  functional  
+-  Functionality is nothing but behavior of the application (Testing the functionality of a element)
+-  functional testing talks about how your feature should work 
+-  Functional -- something it should work 
+-----
+1. Object properties testing
+2. Database testing 
+3. Error Handling 
+4. calculation/Manipulation Testing 
+5. Links Existence & link Execution 
+6. Cookies & sessions
+
+**********************************************************************************
+1. object properties testing 
+---
+
+- what is object --- is something is an element 
+- for ex--box button etc (every thing) 
+
+
+---------------------
+| 		    |
+|     Text Box	    |
+---------------------
+
+in text box there 2 things(function/property) 
+1. enabled
+2. disabled
+
+1. if text box is enabled --- user can enter the texts
+2. if text box is disabled --- user can't enter texts 
+
+focus property in element where when u enter the username then cursor go to next textbox called password that is focus property 
+
+OPT---> check the property's of the object present on the application 
+
+for example ---> Enable, Disable, visible, focus.... etc
+-------------------------------------------------------------------------------
+2. Database Testing is include (white box and black box) (Grey box testing another name means combination)
+----------
+- checking database operations with respect to user operation 
+- Database/Backend testing
+- initial checking the DML(Data Manipulation Language)  operation working fine or not 
+
+- there are 2 thing 
+1. black box, 2. white box or (non function and functional)
+
+operation are 
+1. insert
+2. deleting 
+3. select
+4. updating
+
+UI is black box testing 
+real DATABASE/backend is white box testing 
+
+
+white box testing functions 
+-------------------------------
+1. table and column Level validation(Column Type, Column Length, number of column)
+2. relation b/w the tables(Normalization)
+3. function
+4. Procedures 
+5. Triggers
+6. index
+7. views
+
+******************************************************************************
+3. Error Handling Testing 
+
+- tester verify the error messages 
+
+
+
+
+
 
 
 
@@ -598,4 +671,6 @@ Topics Covered
 3. GUI Checklist
 4. Usability testing
 5. Functional testing
- 
+6. Object Properties Testing
+7. Database Testing
+8. Error Handling Testing
