@@ -36,6 +36,9 @@ Day - 4
 3. GUI Checklist
 4. Usability testing
 5. Functional testing
+6. Object Properties Testing
+7. Database Testing
+8. Error Handling Testing
 
 
 Project -- > 
