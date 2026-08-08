@@ -620,6 +620,7 @@ focus property in element where when u enter the username then cursor go to next
 OPT---> check the property's of the object present on the application 
 
 for example ---> Enable, Disable, visible, focus.... etc
+color of the link 
 -------------------------------------------------------------------------------
 2. Database Testing is include (white box and black box) (Grey box testing another name means combination)
 ----------
@@ -653,11 +654,62 @@ white box testing functions
 ******************************************************************************
 3. Error Handling Testing 
 
-- tester verify the error messages 
+- tester verify the error messages while performing incorrect action on the application 
+- error should be readable/ user understandable language 
+
+*****************************************
+4. calculation/manipulation Testing
+-----------------------------------------
+
+- focus on calculations 
+- Tester should verify the calculations.
+
+****************************************************************************
+5. Link existence & link Execution 
+--------------------------------------------
+
+- where exactly the link are placed ----------- link existence
+- Links are navigating to proper page or not 
+
+3 types 
+1. internal - navigate - same page - another section 
+2. external - navigate to another page 
+3. broken - no action, no target pages, --- for future implementation 
+
+web application - Executing or not, working or not, navigating to another page or not
+*******************************************************************************
+6. cookies & sessions Testing(will be done only for web application)
+--------------------------------------------
+Cookies -- client side -- creates by clients -- related to browser 
+
+- cookies are Temporary files which created by browser while browsing the pages through  inter net - it contains data - it will remember the data and actions 
+
+- tester verifies that cookies are created and saving the data for that application 
+
+Session -- server side -- times -- ex banking application -- web based application 
+
+Session are time slot created by server, Session will be expired after some time if you are idle for some time 
+*************************************************************************
+
+4. Non Functional Testing -----------------
+
+- its focus on customer Expectation
+- It required skilled dedicated people  
+
+- Types 
+1. performance Testing -- 
+- how well my application responding to my request 
+- speed of the application 
+
+types 
+1. load testing
+2. stress testing
+3. volume testing 
 
 
 
-
+IMPS 
+* Performance Testing will only done on web applications 
 
 
 
@@ -674,3 +726,8 @@ Topics Covered
 6. Object Properties Testing
 7. Database Testing
 8. Error Handling Testing
+9. Calculation & Manipulation Testing
+10. Links existence & links execution
+11. cookies & sessions
+12. Non Functional Testing
+13. Performance Testing
