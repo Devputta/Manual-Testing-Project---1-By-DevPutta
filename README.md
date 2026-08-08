@@ -39,6 +39,11 @@ Day - 4
 6. Object Properties Testing
 7. Database Testing
 8. Error Handling Testing
+9. Calculation & Manipulation Testing
+10. Links existence & links execution
+11. cookies & sessions
+12. Non Functional Testing
+13. Performance Testing
 
 
 Project -- > 
