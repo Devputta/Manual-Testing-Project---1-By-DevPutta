@@ -702,16 +702,54 @@ Session are time slot created by server, Session will be expired after some time
 - speed of the application 
 
 types 
-1. load testing
-2. stress testing
-3. volume testing 
+1. load testing -- slowly increase the number of users 
+-- gradually increasing the lode on application slowly and check the speed of application 
 
+2. stress testing -- suddenly increasing the lode or decreasing the lode and check the application (check the broken possibility) there will be a spare servers 
+
+3. volume testing -- size -- how much data can handle by the application 
+
+***************************************************************************
+2. Security Testing -- there will be diff tools by dedicated people
+-----------------
+
+-- how secure our application. 
+-- :
+1. authentication -- user are valid or not(login)
+2. authorization/access control -- only where he belongs (for ex students can't access department related in college website)
+**************************************************************************
+3. Recovery Testing --
+----------------------
+
+-- check the system change to abnormal to normal 
+*********************************************************************************
+4. Compatibility Testing --
+---------------------------
+there are 3 ways to test 
+
+1. Forward Compatibility -- version wise - new version compatibility with previse 
+2. Backward Compatibility -- what ever new upgrade is coming  the software able to upgrade the existed software 
+3. Hardware Compatibility -- able to install on varies devise or hardware platform
+
+*********************************************************************************
+5. installation testing --
+---------------------------
+
+-- installing software 
+-- check the screen are clear to understand 
+-- screen navigation 
+-- simple or not
+-- un-installation 
+*********************************************************************************
+6. sanitation/garbage testing --
+----------------------------------
+
+-- is any application provides extra features/Functionality then we consider as bug. 
+*********************************************************************************
 
 
 IMPS 
 * Performance Testing will only done on web applications 
-
-
 
 
 ********************************************************* END **********************************************************
@@ -731,3 +769,11 @@ Topics Covered
 11. cookies & sessions
 12. Non Functional Testing
 13. Performance Testing
+14. Security Testing
+15. Recovery Testing
+16. Compatibility Testing
+17. Installation Testing
+18. Sanitation/Garbage Testing
+19. Difference between functional and non functional testing.
+
+******************************************* End Part - 4 ***************************
