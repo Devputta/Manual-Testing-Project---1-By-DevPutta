@@ -51,6 +51,9 @@ Day - 4
 18. Sanitation/Garbage Testing
 19. Difference between functional and non functional testing.
 
+Day - 5
+1. Regression testing 
+
 
 Project -- > 
 -------------------------------------------------------------
