@@ -44,6 +44,12 @@ Day - 4
 11. cookies & sessions
 12. Non Functional Testing
 13. Performance Testing
+14. Security Testing
+15. Recovery Testing
+16. Compatibility Testing
+17. Installation Testing
+18. Sanitation/Garbage Testing
+19. Difference between functional and non functional testing.
 
 
 Project -- > 
