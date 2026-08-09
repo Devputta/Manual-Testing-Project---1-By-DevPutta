@@ -777,3 +777,35 @@ Topics Covered
 19. Difference between functional and non functional testing.
 
 ******************************************* End Part - 4 ***************************
+
+Day - 5  Part - 5
+
+-------------------------------------------------------------------------------
+
+REAL TETINGS
+
+1. Regression Testing
+2. Re-Testing
+3. Smoke & Sanity Testing
+4. Exploratory Testing
+5. Adhoc Testing
+6. Monkey Testing
+7. Positive & Negative Testing
+8. End-to-End Testing
+9. Testing Design Technique 
+
+_______________________________________________________________________________
+1. Regression Testing
+---------------------
+
+-- Testing conducts on modified build to make sure there will not be impact on existing functionality because of changes like adding/deleting/modifying features.
+-- 3 ways
+
+1. unit Regression testing
+-- testing only the changes/modification done by the developer.
+
+
+***********************************************************************************************************************
+Topics Covered: 
+------------------------
+1. Regression testing 
