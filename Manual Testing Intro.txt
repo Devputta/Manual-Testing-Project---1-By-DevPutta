@@ -804,8 +804,91 @@ _______________________________________________________________________________
 1. unit Regression testing
 -- testing only the changes/modification done by the developer.
 
+2. Regional Regression Testing 
+-- Testing the modified module along with the impacted module 
+-- impact analysis meeting conducts to identify impacted module with QA & Dev.
+
+3. Full regression Testing 
+-- testing the main feature & remaining part of the application.
+-- dev has done changes in many module, instead of identifying impacted modules, we perform one round of full regression. 
+_________________________________________________________________________________
+2. Re-Testing (Test Again)
+--------------------------
+
+-- what ever bug we repotted in the previous builds those bugs are fixed or not we will verify in the upcoming builds 
+-- whatever the dev fixed a bug, tester will test the bug fix is called Re-testing 
+______________________________________________________________________________
+3. Smoke and Sanity Testing
+
+******First Testing ever will do the tester is Smoke Testing **********
+
+
+
+1. basic faciality testing (install or missing some package, basic navigation working or not, home page exist or not or lode) build verification testing 
+some will be frequent in every build 
+
+2. build verification testing (smoke) initial days of testing life cycle 
+* unstable builds at initial 
+- check the correct installation 
+- make sure the home page loading
+- make sure the navigation is working fine or not etc........
+- never get stabled build at initial cycle 
+
+**smoke testing can be done by tester r developer **
+
+
+AFTER few many cycle build become stable then tester conduct *Sanity testing*
+
+- it is also check the basic functionality and also checks the main functionality as well  
+ for ex: login working or not, page is loading or not, link are working or not, register function working or not... etc 
+
+smoke and sanity testing both are comes under basic functional testing 
+- tester are going to test the function very high level 
+
+*** Sanity test will be done by Testers ***
+
+if smoke and sanity test will successful then only build will be accepted by the developer 
+
+DIV
+
+1. Smoke Testing is done to make sure the build we received from the development team is testable/stable or not
+
+1. Sanity Test is done during the release phase to check for the main functionalities of the application without going deeper 
+
+2. Smoke testing is performed by both Dev and Tester 
+
+2. Sanity testing is performed by tester alone 
+
+3. Smoke Testing. built may be either stable or unstable 
+
+3. it is done on Stable 
+
+4. it is done on initial built
+
+4. it is done on stable built 
+
+5. it is part of basic testing 
+
+5. it is part of regression Testing
+
+6. usually it is done every time there is a new built release 
+
+6. it is planned when there is no enough time to do in depth testing. 
+_________________________________________________________________________________
+4. Exploratory Testing 
+------------------------
+
+-- 
+ 
+
+
+
 
 ***********************************************************************************************************************
 Topics Covered: 
 ------------------------
 1. Regression testing 
+2. Re-testing 
+3. regression vs re-testing
+4. Smoke testing and sanity testing 
+5. exploratory testing 
