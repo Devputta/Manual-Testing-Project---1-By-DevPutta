@@ -52,7 +52,11 @@ Day - 4
 19. Difference between functional and non functional testing.
 
 Day - 5
-1. Regression testing 
+1. Regression testing
+2. Re-testing 
+3. regression vs re-testing
+4. Smoke testing and sanity testing 
+5. exploratory testing
 
 
 Project -- >  "https://demowebshop.tricentis.com/"
