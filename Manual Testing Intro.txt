@@ -877,12 +877,100 @@ DIV
 _________________________________________________________________________________
 4. Exploratory Testing 
 ------------------------
+(no document is available but your application is ready -- without having test scenarios and test cases explore application and understand)
 
--- 
+-- we have to explore the application, understand completely and test it.
+-- understand the application, identify all possible scenarios, document it then use it for testing 
+-- we do exploratory testing when the application ready but there is no requirements.
+-- test engineer will do the exploratory testing when there is no requirements.
+
+Drawback:
+
+-- you might misunderstand any feature as a bug (or) any bug as a feature since you do not have requirements 
+-- time consuming 
+-- if there is any bug in application, you will never know about it.
+________________________________________________________________
+5. Adhoc Testing
+------------------
+ (informal Testing) not a basic testing main intention to brake the application 
+----------------
  
+-- Testing application Randomly without any test cases or nay business requirements documents.
+-- Adhoc testing is an informal testing type with an aim to brake application 
+-- tester should have knowledge of application even thou he doesn't have requirements/test cases.
+-- this testing is usually an unplanned activity.
+_________________________________________________________________
+6. Monkey/Gorilla Testing 
+--------------------------
+(don't know application nor document, test cases, design)
 
+-- testing application randomly without any test cases or any business requirements documents.
+-- Adhoc testing is an informal testing type with an aim to break the system 
+-- tester do not have knowledge of application 
+-- suitable for gamming application 
+____________________________________________________________________
+7. diff Exploratory VS Adhoc VS Monkey
 
+--  
+1. A
+2. M
+3. E
 
+1. * NO Documents
+   * ------------
+   * ------------
+2. * No plan 
+   * -------
+   * -------
+3. * informal Testing
+   * ----------------
+   * ----------------
+   * ----------------
+4. * Tester should Know Application Functionality 
+   * Tester doesn't know application Functionality 
+   * ---------------------------------------------
+5. * Random Testing
+   * --------------
+   * --------------
+6. * intention is to brake the application/ find out corner defect 
+   * ------------------------------------------------------
+   * intention is to learn or explore functionality of application 
+7. * Any application
+   * Gaming Application 
+   * Any application which is new to tester 
+_____________________________________________________________________
+8. Positive Testing and Negative Testing 
+----------------------------------------
+Positive 
+
+-- Testing the application with valid inputs is called as positive Testing 
+-- positive inputs 
+-- it checks whether an application behaves as expected with positive inputs.
+
+Negative 
+
+-- testing the application with invalid inputs is called as negative testing 
+-- it check whether  an application behaves as expected with negative inputs 
+___________________________________________________________________________
+9. P VS N Test case 
+----------------
+_________________________________________________________________
+10. End -to- End Testing 
+---------------------------
+
+-- Testing the overall functionalities of the system including the data integration among all the modules is called end - to - end Testing 
+___________________________________________________________________
+11. Globalization and Localized Testing 
+-----------------------------------------
+
+-- 1. performed to ensure the system or software application can run in any cultural or local environment 
+-- 1. perform to check system or software application for a specific geographical and cultural environment 
+
+-- support all kind of language diff attribute 
+-- specific region language 
+
+-- address, number, currency format supported by application 
+-- it design for specific number, currency, address 
 
 ***********************************************************************************************************************
 Topics Covered: 
@@ -892,3 +980,10 @@ Topics Covered:
 3. regression vs re-testing
 4. Smoke testing and sanity testing 
 5. exploratory testing 
+6. adhoc testing 
+7. monkey testing
+8. Difference b/w exploratory  vs adhoc vs monkey
+9. positive and negative testing
+10. positive vs negative TCs 
+11. end to end testing 
+12. localization and globalization/internalization testing
