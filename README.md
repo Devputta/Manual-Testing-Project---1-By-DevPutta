@@ -57,6 +57,13 @@ Day - 5
 3. regression vs re-testing
 4. Smoke testing and sanity testing 
 5. exploratory testing
+6. adhoc testing 
+7. monkey testing
+8. Difference b/w exploratory  vs adhoc vs monkey
+9. positive and negative testing
+10. positive vs negative TCs 
+11. end to end testing 
+12. localization and globalization/internalization testing
 
 
 Project -- >  "https://demowebshop.tricentis.com/"
