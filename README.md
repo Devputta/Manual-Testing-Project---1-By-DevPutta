@@ -65,6 +65,10 @@ Day - 5
 11. end to end testing 
 12. localization and globalization/internalization testing
 
+Day - 6
+1. Test Case Design Techniques
+2. Equivalence Class Partitioning
+
 
 Project -- >  "https://demowebshop.tricentis.com/"
 -------------------------------------------------------------
