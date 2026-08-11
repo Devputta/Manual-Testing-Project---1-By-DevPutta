@@ -987,3 +987,33 @@ Topics Covered:
 10. positive vs negative TCs 
 11. end to end testing 
 12. localization and globalization/internalization testing
+
+************************************Day -5 DONE *********************************
+Part - 6    DAY - 6
+
+_____________________________________________________________________
+1. Test Case Design Techniques
+------------------------------
+
+-- Used to prepare data for Testing.
+-- 1. Reduce Data
+2. more coverage 
+
+-- Main Intention is to By using test design technique we prepare some test data which can cover each and every functionality that is main usage of test design technique 
+
+
+***** Test design technique used to reduce the test data and which will increase coverage *******
+
+there are 5 ways 
+
+1. Equivalence Class Partitioning 
+2. Boundary value Analysis (BVA)
+3. Decision Table based testing 
+4. state transition
+5. Error Guessing 
+___________________________________________________________________
+1. Equivalence Class Partitioning 
+----------------------------------
+
+--  
+
