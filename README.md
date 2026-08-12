@@ -68,6 +68,10 @@ Day - 5
 Day - 6
 1. Test Case Design Techniques
 2. Equivalence Class Partitioning
+3. Boundary Value Analysis (BVA)
+4. Decision Table
+5. State Transition
+6. Error Guessing
 
 
 Project -- >  "https://demowebshop.tricentis.com/"
