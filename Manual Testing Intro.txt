@@ -1004,7 +1004,7 @@ _____________________________________________________________________
 
 ***** Test design technique used to reduce the test data and which will increase coverage *******
 
-there are 5 ways 
+there are 5 ways not types 
 
 1. Equivalence Class Partitioning 
 2. Boundary value Analysis (BVA)
@@ -1015,5 +1015,93 @@ ___________________________________________________________________
 1. Equivalence Class Partitioning 
 ----------------------------------
 
---  
+--  Partition data into various classes and we can select data according to class then test, it reduce the number of test-cases and saves time for testing (ECP)
+
+for ex: enter a number * allowed digit from 1-500
+
+-100 to 0 -> -50 invalid 
+1 - 100 -> 30 valid 
+101 - 200 -> 160 valid 
+- 250
+- 320
+- 450
+501 - 600 -> 550 invalid 
+
+-- checking the values (value check)
+-- classify the data in to multiple/partition class 
+_________________________________________________________________
+2. Boundary value Analysis (BVA)
+---------------------------------
+
+-- Boundary of the values 
+-- user to check the boundaries of input
+
+for EX : Enter a age *allow digits from 18-35
+
+min = 18 pass                max = 35 pass
+min-1 = 17 fail              max-1 = 34 pass
+min+1 = 19 pass              max+1 = 36 fail 
+
+-- * 6 parameter 
+min, min-1, min+1, max, max-1, max+1
+
+Input domain testing 
+--------------------
+the values will be verified in the text box/input fields.
+here we use -- ECP, BVA Technique 
+____________________________________________________________________
+3. Decision Table based testing 
+--------------------------------
+
+-- Decision Table is also as Cause-effect Table 
+-- This technique will be used if we have more conditions and corresponding action 
+-- in decision table technique, we deal with combination of inputs.
+-- to identify the test cases with decision table, we consider conditions and actions 
+
+ 
+for ex: take transferring money online to an account which is already add and approved 
+
+condition 
+1. account already approved 
+2. otp matched 
+3. sufficient amount should be there in account 
+
+actions
+1. transfer money
+2. shows a message as insufficient amount
+3. block the transaction incase of suspicious transaction 
+
+-- if u have more number of conditions/ action then we use decision table technique 
+_____________________________________________________________________
+4. state transition
+--------------------
+
+-- in State transition technique changing in input conditions change the stat of the application 
+-- this testing technique allow the tester to test the behavior of an AUT.
+-- the tester can perform this action by entering various inputs conditions in a sequence 
+-- in state transition technique, the tester team proves positive as well as negative input test values for evaluating the system behavior.
+___________________________________________________________________
+5. Error Guessing 
+-----------------
+
+-- Error guessing is one of the tester technique used to find bugs in a software application based on tester prior experience 
+-- in error guessing we don't follow any special rules 
+-- it depends on tester analytical skills and experience 
+-- some of the example are 
+   * submitting a form without entering values.
+   * entering invalid values such as entering alphabetic in the numerical fields 
+
+
+******************************************************************************
+Topics Covered:
+-------------------------
+1. Test Case Design Techniques
+2. Equivalence Class Partitioning
+3. Boundary Value Analysis (BVA)
+4. Decision Table
+5. State Transition
+6. Error Guessing
+
+******************************** End of 6 and End of 6th day *************************
+
 
