@@ -3,6 +3,7 @@ MANUAL TESTING :
 
 Topics Covered :
 ------------------------
+DAY - 1
 1. What is Software? Types of Software’s?
 2. What is Software Testing?
 3. What is Software Quality?
@@ -72,6 +73,14 @@ Day - 6
 4. Decision Table
 5. State Transition
 6. Error Guessing
+
+DAY - 7
+1. Test Planning
+2. Test Design/Development
+3. Test Execution
+4. Defect Reporting & Tracking
+5. Test Closure
+
 
 
 Project -- >  "https://demowebshop.tricentis.com/"
