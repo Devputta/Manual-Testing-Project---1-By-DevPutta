@@ -1103,5 +1103,154 @@ Topics Covered:
 6. Error Guessing
 
 ******************************** End of 6 and End of 6th day *************************
+---------------------------------Day 7th and 7th Day--------------------------
+_____________________________________________________________________________________
+STLC (Software Testing Life Cycle)
+----------------------------------
 
+--  
+1. Requirements Analysis 
+2. Test Planning
+3. Test Design/Development
+4. Test Execution
+5. Defect Reporting & Tracking
+6. Test Closure
 
+--  testing process 
+ 
+Requirement analysis ------
+			   |
+			Testing Plan -----
+					  |
+				      Test cases Design/Development -----
+			                                                |
+		                                                 Environment Setup -----
+					                                               |
+				                                                Test Execution -----
+						                                                   |
+						                                           Test Cycle Closure 
+                                                                                                   
+                                                                       
+ _______________________________________________________________________________________
+1. Test planning 
+------------------
+
+-- mainly focusing on 3 things
+1. what to test 
+2. how to test 
+3. when to test 
+
+-- to start test plan we need document management level
+1. project plan 
+2. Function Requirement (from FRS)
+
+-- Activities 
+1. identify the resources
+2. team formation
+3. test estimation
+4. preparation of test plan (lead)
+5. Review on test plan
+6. test plan sign-off
+
+-- Responsibility  
+1. test lead/team lead (70%)
+2. team manager (30%)
+
+-- outcome
+Approved teat plan Document 
+____________________________________________________________________
+2. Test Design 
+--------------
+
+-- Input 
+1. Project plan 
+2. Functional Requirement 
+3. test plan
+4. Design Doc
+5. use cases
+
+-- Activities 
+1. Preparation of test scenarios 
+2. preparation of test cases
+3. review on test cases
+4. traceability matrix
+5. test cases sign-off
+
+--  Responsibility 
+1. Test lead/team Lead (30%)
+2. test engineer (30%)
+
+-- outcome 
+1. Test case document
+2. traceability  matrix 
+_____________________________________________________________________________
+3. Test Execution 
+-------------------
+
+-- Input
+1. Functional Requirements
+2. Test plan
+3. teat case
+4. Build from Development team 
+
+-- Activities 
+1. Executing Test cases 
+2. Preparation of test report/test log 
+3. identifying defect (main activity)
+
+-- Responsivity
+1. Test lead/team lead (10%)
+2. Test Engineer (90%)
+
+-- outcome
+Satu's/test Report  
+_____________________________________________________________________
+4. Defect Report & Tracking (including Test Execution)
+------------------------------------------------------
+
+-- Input
+1. Test Cases
+2. Test Report/test log
+
+-- Activities 
+1. Preparation of Defect report 
+2. Reporting Defect to developer 
+
+--  Responsibility 
+1. Test lead/team lead (10%)
+2. Test engineer (90%)
+
+-- Outcome
+Defect Report
+_______________________________________________________________________
+5. Test Closure/Sign-off
+----------------------------
+
+-- Input
+1. Test Report
+2. Defect Report 
+
+-- Activities 
+1. Analyzing Test Reports
+2. Analyzing Bug Report
+3. Evaluating Exit Criteria 
+
+-- Responsibility 
+1. Teat Lead/Test Manager (70%)
+2. Test Engineer (30%)
+
+-- outcome
+Test Summary Reports 
+                                             
+*************************************************************************************
+Topics Covered:
+-----------------
+STLC (Software Testing Life Cycle)
+-----------------------------------------------------
+1. Test Planning
+2. Test Design/Development
+3. Test Execution
+4. Defect Reporting & Tracking
+5. Test Closure
+
+******************************** END 7th Part and END OF 7TH DAY ****************************
