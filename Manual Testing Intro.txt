@@ -1131,7 +1131,7 @@ Requirement analysis ------
 						                                           Test Cycle Closure 
                                                                                                    
                                                                        
- _______________________________________________________________________________________
+ __________________________________________________________________________________________________________________
 1. Test planning 
 ------------------
 
@@ -1254,3 +1254,191 @@ STLC (Software Testing Life Cycle)
 5. Test Closure
 
 ******************************** END 7th Part and END OF 7TH DAY ****************************
+_______________________________________________________________________________________________
+
+Day 8th And Part 8th
+
+*********************************************************************************************
+
+1. Test Plan Content 
+---------------------
+
+-- A Test Plan is a document That describes the test scopes, test strategy, objectives, schedule, deliverables and resource required to perform testing for a software product 
+
+-- test plan Templet Content 
+* overview - description 
+* scope 
+	1. inclusion 
+	2. test environment 
+	3. Exclusions 
+* test strategy 
+* Defect Report Procedure 
+* Roles/Responsibility 
+* Test Schedule 
+* Test Deliverable 
+* Pricing 
+* Entry and exit Criteria 
+* Suspension and Resumption Criteria 
+* tools
+* Risk and Mitigations
+* Approvals
+______________________________________________________________________
+2. use case, test scenarios & test case 
+---------------------------------------
+in FRS
+product manager / product owner 
+-- use case - is nothing but a picture or data flow diagram 
+* use case describes the requirements 
+* contains 3 item 
+Actor - user - perform action single or group of peoples 
+Action - login operation 
+goal/outcome - successful login 
+
+
+Testers
+Test scenarios: based on use cases we can derive the test scenarios - input - use case  cases 
+- A possible area to be tested (what to test)
+
+Test case :
+- step by step actions to be performed to validate functionality of AUT (how to test)
+- test case contains test steps, expected result & actual Result 
+____________________________________________________________________________________
+
+2. Use case VS Test Cases
+-----------------------
+
+-- Use case 
+* Describes Functional Requirements prepared by business Analyst(BA) 
+
+-- Test Cases 
+* Describes test steps/procedure, prepared by test engineer 
+
+Test scenarios VS Test Cases 
+-----------------------------
+Test Scenarios is what to tested and Test cases is how to tested 
+
+Test suites 
+------------
+-- test suite is group of test case which belongs to same category 
+
+test suite are like GUI test suits, Smoking, Sanity, Regression, so on similar test case are groped and named as so and so test suite 
+______________________________________________________________________
+
+3. Test Cases 
+--------------
+
+-- A test case is a set of actions execution to validate particular feature or functionality of your software application 
+
+Test Case Contents 
+1. Test case ID
+2. TC Title
+3. Description
+4. pre-condition 
+5. Priority (P0,P1,P2...)-order 
+6. Requirement ID
+7. Steps/Action 
+8. Expected Result
+9. Actual Result
+10. Test data
+
+________________________________________________________________________
+4. RTM Requirements Traceability Matrix
+----------------------------------------
+
+-- RTM Describes the mapping of Requirements with the test cases 
+-- The main purpose of RTM is to see that all test cases are covered so that no Functionality should miss while doing software testing 
+
+-- Parameters 
+1. Requirements ID
+2. Req Description 
+3. Test Case ID's
+
+_________________________________________________________________________
+5. Test Environment Setup & Test Execution
+------------------------------------------
+
+-- Test Environment is a platform specially built for test cases execution on the software product 
+-- it is created by integrating the required software and hardware along with proper network configuration 
+-- test environment simulated production/real time environment.
+-- another name of the test environment is test bed.
+
+* Test execution 
+-----------------
+-- During this phase test team will carry out the testing based on the test plan and the test cases prepared 
+
+Entry Criteria : Test cases, Test Data, Test Plan 
+Activities:
+	- test case executed based on test plan 
+	- status of test cases are marked like passed or failed 
+	- Documentation of test results and log defects for failed cases is done 
+	- all bugs are assigned Bug ID's 
+	- Re-testing again the fixed one 
+	- Defect are tracked till closure.
+Deliverable: Provides Defects and test cases execution report with completing results .
+
+__________________________________________________________________________
+
+6. Defects/Bugs
+-----------------
+
+-- both are same but error and mistake is differ 
+
+-- any mismatched Functionality found in a application is called as defect/bug/issue 
+
+-- mismatch b/w actual and expected 
+
+-- During test Execution Test engineer are reporting mismatches as defects to developer through templets or using tools 
+
+-- defect Reporting Tools 
+1. clear Quest / BT
+2. DevTrack / BT
+3. Jira - TM Both 
+4. Quality Center - TM Both
+5. Bug Jilla / BT etc...
+
+_____________________________________________________________________________
+
+7. Contents is Defect Report
+-----------------------------
+
+-- 1. Defect ID
+2. Defect DESP
+3. Version of application
+4. steps
+5. date raised
+6. Reference - document or screenshots 
+7. Detected By
+8. status 
+9. Fixed By
+10. Date Closed
+11. Severity 
+12. priority 
+
+
+Defect Categorization
+
+Severity                  Priority 
+Blocker                      P1
+Critical                     P2
+major                        P3
+miner  
+
+Defect Severity
+Severity describes the seriousness of defect and how much impact on Business workflow.
+
+for ex: Application Crashed login not working 
+Blocker - (Show stopper): This defect indicates nothing can proceed further 
+
+Critical - the main/basic functionality is not working. customer workflow is not working or broken they can't proceeds further 
+for ex : fund transfer is not working 
+
+Major - it cause some undesirable behavior, but the feature/application is still working 
+for Ex: after sending email there is no conform message shown 
+
+Minor - it won't cause any major break-down of the system 
+for ex: look and feel issues, spelling, alignment 
+
+
+
+
+
