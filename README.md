@@ -89,6 +89,7 @@ Day - 8
 5. Test Environment Setup & Test Execution
 6. Defects/Bugs
 7. Contents is Defect Report
+8. Defect Classification (Severity & Priority)
 
 
 Project -- >  "https://demowebshop.tricentis.com/"
