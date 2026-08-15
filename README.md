@@ -81,6 +81,14 @@ DAY - 7
 4. Defect Reporting & Tracking
 5. Test Closure
 
+Day - 8
+1. Test Plan
+2. Use Case Vs Test Scenario Vs Test Case
+3. Test Case Template
+4. RTM (Requirement Traceability Matrix)
+5. Test Environment Setup & Test Execution
+6. Defects/Bugs
+7. Contents is Defect Report
 
 
 Project -- >  "https://demowebshop.tricentis.com/"
