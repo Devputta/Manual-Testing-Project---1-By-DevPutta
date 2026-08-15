@@ -1438,6 +1438,58 @@ for Ex: after sending email there is no conform message shown
 Minor - it won't cause any major break-down of the system 
 for ex: look and feel issues, spelling, alignment 
 
+defect priority (can be changed by developer and business analyst) user point of view 
+---------------
+- priority describes the impact of defect.
+- defect priority states the order in which a defect should be fixed 
+
+P0 - High : the defect must be resolved immediately as it affects the system severely and cannot be used until is fixt 
+
+P1 - medium : it can wait until a new version/builds is created 
+
+P2 - low : Developer can fix it in later releases 
+
+
+SP
+
+High-High - Login is taking to blank page 
+
+High-Low - About Us link is going to blank page 
+
+Low-High - After user is logged into application, he can see home page. but there is spelling mistake in home page 
+
+Low-Low - User opened contact page. email ID has Spelling mistake.
+
+ 
+Defect Resolution 
+-------------------
+- After receiving the defect report from the tester team, development team conduct a review meeting to fix defect, then they send resolution type to the testing team for future 
+
+Resolution Types 
+------------------
+Accept
+Reject
+Duplicate
+Enhancement 
+Need more information
+not Reproducible  
+Fixed
+as Designed 
+
+***************************************END********************************
+
+Topics Covered
+--------------------------
+1. Test Plan
+2. Use Case Vs Test Scenario Vs Test Case
+3. Test Case Template
+4. RTM (Requirement Traceability Matrix)
+5. Test Environment Setup & Test Execution
+6. Defects/Bugs
+7. Contents is Defect Report
+8. Defect Classification (Severity & Priority)
+
+*****************************End of 8 *************************************
 
 
 
