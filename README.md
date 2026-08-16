@@ -91,6 +91,13 @@ Day - 8
 7. Contents is Defect Report
 8. Defect Classification (Severity & Priority)
 
+Day - 9
+1. Defect/Bug Life Cycle
+2. Test Closure/When To Stop Testing?
+3. Software Testing Metrics
+4. QA/Testing Activities
+5. Principles of Software Testing
+
 
 Project -- >  "https://demowebshop.tricentis.com/"
 -------------------------------------------------------------
