@@ -1491,6 +1491,93 @@ Topics Covered
 
 *****************************End of 8 *************************************
 
+__________________________________________________________________________________
 
+Part - 9 
+---------------------------------------------------------------------------
+
+1. Defect/Bug Life Cycle
+2. Test Closure/When To Stop Testing?
+3. Software Testing Metrics
+4. QA/Testing Activities
+5. Principles of Software Testing
+-------------------------------------------------------------
+1. Defect/Bug Life Cycle
+-------------------------
+2. Test Closure/When To Stop Testing?
+---------------------------------------
+conduct meeting withe teams 
+Activities 
+* Evaluate cycle completion criteria based on time, test coverage, cost, software, critical business objectives, quality 
+* prepare test metric based on the above parameters 
+* document the learning out of the project
+* prepare test summary report
+* qualitative and quantitative report of quality of the work product to the customer
+* test result analysis to find out the defect distribution by type and severity.
+
+Deliverables
+
+* test closure report
+* Test metrics 
+---------------------------------------------------------------------------
+3. test metrics
+-------------------
+1. no of requirements 
+2. avg. no. of test cases written per requirements
+3. total no. of test cases written for all requirements 
+4. total no. of test cases executed
+5. no. of test cases passed
+6. no. of test cases failed 
+7. no. of test cases blocked
+8. no. of test cases un Executed 
+9. total no. of defects identified 
+10. critical defect count
+11. higher defect count
+12. medium defect count
+13. low defect count
+14. customer defect
+15. no. of defects found in UAT
+
+
+* defect density - number of defect identified per requirements 
+no. of defect found/size(no. of requirements)
+
+* defect removal efficacy (DRE)
+A/A+B
+Fixed Defects(during test by tester)/fixed defects + missed defects(missed during testing and identified by customer)  * 100
+
+* defect leakage 
+no. of defect found in UAT/no. of defect found in testing  * 100
+
+* defect rejection Ratio:
+No. of defect rejected/total no of defect raised * 100
+
+* defect age
+fixed date - Reported date
+
+* customer satisfaction = no of complaints per period of time 
+-----------------------------------------------------------------------------
+4. QA/Testing Activities
+--------------------------------------------------------------
+5. Principles of Software Testing
+
+1. start at early stages when u get the requirements
+2. test the software in order to find the defects. 
+3. bug free software to customer 
+4. should not do exhaustive testing 
+5. testing is context based
+ 
+__________________________________________________________________________________________
+
+Contents Covered:
+-----------------------------
+1. Defect/Bug Life Cycle
+2. Test Closure/When To Stop Testing?
+3. Software Testing Metrics
+4. QA/Testing Activities
+5. Principles of Software Testing
+
+
+***************************************End of the part 9 and End of the 9th day ********************************************
 
 
