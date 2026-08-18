@@ -113,3 +113,16 @@ Topics :
 Day - 2
 1. RTM (Requirement Traceability Matrix)
 2. Test Cases
+
+Day - 3
+1. Manual Testing Project
+2. Project introduction
+3. Understanding & Explore the Functionality (FRS)
+4. Test Plan
+5. Writing Test Scenarios
+6. Writing Test Cases, Reviews & RTM
+7. Environment Setup & Build deployment
+8. Test Execution
+9. Bug Reporting & Tracking
+10. Sanity Testing, Re-Testing & Regression Testing
+11. Test Sign off
