@@ -107,3 +107,10 @@ Part 3 Day 3
 ------------------------------------------------------------------
 
 
+
+Topics :
+---
+1. Test Cases Review 
+2. Environment Setup/Test Bed
+3. Build Development 
+4. Smoke & Sanity Testing

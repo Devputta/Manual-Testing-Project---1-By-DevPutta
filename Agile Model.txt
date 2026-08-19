@@ -1,0 +1,125 @@
+Agile Model:
+-----------------------------------------------------------------
+
+Agile model\Agile Methodology\Agile Process 
+--------------------------------------------
+
+1. it follow and it is an iterative(same process repeating again and again) and incremental Approach.
+-- repeating again and again 
+-- it a process model 
+
+*** agile follow iterative and incremental process ***
+
+Principles 
+
+* customer no need wait until complete software development   
+* we are delivering piece of software which contains few functionality to customer (releasing piece by piece to customer)
+* we accommodate  changes from customer 
+
+--- delivery is fast -----
+
+Adv----
+* Requirements are allowed at any stage of software development process or we can accommodate requirement changes in the middle of development
+* Releases will be faster weekly  
+* customer no need to wait for long time 
+* good communication b/t team
+* it is very easy model to adopt 
+
+Dis----
+* there is less documentation(FRS, design level, test plan(more number of meeting))  
+
+
+SCRUM-----
+--------------
+
+* what is Scrum in Agile 
+--------------------------
+-- Agile is basically process model (define principle)
+-- Scrum Framework through in which we develop and test the software (how to follow the principle of Agile)
+
+-- Scrum is frame work through which we build software product by following Agile Principle 
+
+People are involved in process are called Scrum Team/ Agile Team  
+
+(5 to 9 members) 
+
+1. Product Owner 
+2. Scrum Master
+3. Dev Team
+4. QA Team 
+
+(all are work for one particular software)
+
+role/responsibility
+
+Product owner :- 
+1. define the features of product 
+2. prioritize feature according to market value 
+3. Adjust features and priority every iterate, as needed 
+4. Accept or reject work result 
+
+Scrum Master :- it a specific role as leader 
+1. the main role is facilitating and driving the agile process(he is not a developer, tester, etc)
+2. he know the each process make sure follow the agile process or not he will make people understand the agile process, he will take care of each steps, most of the meeting are conducted or organized by scrum master. 
+
+Developer and QA Team :- 
+1. Develop and test the software.
+
+
+Scrum Terminology:- (PO)
+-------------------
+
+1. User Story : a feature/ module in a software. (Requirements)
+2. Epic : collection of user stories. (1 epic into many user story (collection of user story are called Epic)).
+3. Product Backlog (excel File or Document) : Contains list of user stories, prepared by product owner.		 
+4. Sprint/iteration : Period of time to complete the user story(Task), decided by the product owner and team, usually 2-4 weeks of time.
+5. Sprint Planning Meeting : Meating conducts with the team to define what can be deliveried in the sprint and duration. (one day meeting )
+6. Sprint backlog : list of comitted stories by dev/QA for specific sprint. 
+7. scrum Meeting : Meating conducted by scrum master every day 15 mins. called as scrum call/standup meeting  
+- what did you do yesterday
+- what will you do today 
+- are there any implements in your way
+8. Sprint Retrospective Meeting : this meeting only once(after every sprint), with every one in team 
+9. Story point : Rough estimation of user stories, will be given by Dev & QA in the form of Fibonacci series.
+10. Burndown Chart : Shows how work remining in the Sprint. Maintained by the Scrum master Daily. 
+
+ 
+Roles 
+1. product Owner
+2. Scrum Master 
+3. Team 
+
+Artefacts
+1. Product Backlog
+2. Sprint Backlog 
+3. Burndown Chart
+
+Ceremonies 
+1. Sprint Planning
+2. Daily Scrum
+3. Sprint Review 
+
+------------------------------------------------------------------------------------------------
+Topics : 
+-----------
+1) Agile Model 
+2) Agile Methodology 
+3) Scrum Process
+
+________________________________________________________________________________________________________
+
+Jira Tool
+---------
+
+- management tool 
+- automation tool 
+
+- test management tool 
+we can define requirement, test scenarios, test case ETC........
+
+- defect/bug reporting tracking tools
+
+- Agile tool - for agile purpose 
+
+
+
