@@ -1,0 +1,13 @@
+Test Case Name,TC Description,#,Test Step,Test Data,Test Result,Labels
+Register User,Validate Registering an Account by providing the account details,1,Open Application URL,http://demo.opencart.com/,,
+,,2,Click on 'My Account' Drop menu,NA,,
+,,3,Click on 'Register' option,NA,,
+,,4,"Enter new Account Details into the Fields (First Name, Last Name, E-Mail,Telephone, Password, Password Confirm and Privacy Policy Fields)",NA,,
+,,5,Click on 'Continue' button,NA,"User should be logged in, taken to 'Account Success' page and proper details should be displayed on the page",
+,,6,Click on 'Continue' button that is displayed in the 'Account Success' page,NA,User should be taken to 'Account' page and a confirm email should be sent to the registered email address,
+User Login,Validate User is able to login with Valid Credentials,1,Open Application URL,http://demo.opencart.com/,,
+,,2,Click on 'My Account' Drop menu,NA,,
+,,3,Click on Login,NA,,
+,,4,Provide valid Email & Password,"pavonoltraining@gmail.com
+Password: test123",Login should be successful,
+,,5,Click on Login button,NA,,

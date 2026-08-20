@@ -146,7 +146,27 @@ this is a user story back logs
 AI Mode conversation: text plzYou sent: 1 image and said: text plztext plzEpicOpenCart_Epic_001 :For a new e-commerce website to launch, the highest Business Value will be when a new user is able to buy an item from the website.If you need help, I can:Break this epic down into user storiesWrite acceptance criteria for this featureHelp you plan a Minimum Viable Product (MVP) roadmapLet me know how you would like to proceed with this requirements planning.AI can make mistakes, so double-check responses You sent: 1 image and said: give me this tablegive me this tableUser Story IDFeature/TitleUser StoryStatusAcceptance CriteriaUS001RegistrationAs a First-time visitor to the e-commerce website,I want to register my account,So that I can login to application.NewNew user should able to Register account with valid data.US002LoginAs a registered user,I want to login to the website,So that I can see my account details etc..NewSystem must validate user credentials and allow login if credentials are correct..US003LogoutAs a registered user,I want to logout from website,So that no one else can't access my account.NewSystem must logout after login.US004User search productsAs a user,I want to be able to search items,So that I can add them to cart and do payment.NewUser should able to search products and add them to cart.
 
 
+Agile scrum activities
+-----------------------------
+1. How to create project in Jira
+2. How to add users/people in Jira
+3. How to create Backlog -->Epic
+4. How to create stories in Jira & add story points
+5. Creating sprint in Jira
+6. Adding user stories to sprint
+7. Starting sprint
+8. Adding sub-tasks to story
+9. Sprint life cycle   
 
+Test Management Activities (Zepyre)
+------------------------------------
+1. Test cases
+2. Test cycle
+3. update test cases passed/failed/blocked
+4. Report bugs
+5. Reports
+
+ 
 
 
 
