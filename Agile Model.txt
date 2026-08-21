@@ -166,8 +166,16 @@ Test Management Activities (Zepyre)
 4. Report bugs
 5. Reports
 
- 
 
+How to install zephyr plugin
+How to create Test case in Jira Manually
+How to import multiple test csaes in to Jira tool
+
+Creating test cycles
+Add test cases to cycle
+Execute/Update Test cases
+Reports in Zephyr
+Traceability Matrix
 
 
 
